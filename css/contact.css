@@ -1,0 +1,17 @@
+body
+{
+    background-image: url(../media/cosmodrip.jpg);
+    width: 100%;
+    height: 100%;
+    
+    background-repeat: no-repeat;
+
+}
+p
+{
+    font-family: 'Bebas Neue', cursive;
+    word-spacing: 3px;
+    font-size:40px;
+    color: white;
+    text-decoration: none;
+}

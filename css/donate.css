@@ -1,0 +1,103 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap%27');
+
+
+.text{
+    color:aliceblue;
+    font-family: 'Bebas Neue', cursive;
+    font-size: large;
+    word-spacing: 3px;
+    text-align: center;
+    padding: 4px;
+}
+.head{
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Bebas Neue', cursive;
+}
+
+body{
+    background-image: url(../media/donate.jpg);
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+
+}
+.footer_about{
+    text-align: center;
+    margin-top: 260px;
+    opacity: 1;
+    color: antiquewhite;
+}
+
+@media only screen and (max-width: 1500px)
+{
+    .article1
+    {
+        max-width: 60%;
+        max-height: 60%;
+        overflow: hidden;
+
+
+    }
+
+
+}
+.tekst_donate{
+    font-size: 35px;
+    position: relative;
+        background-color: black;
+        opacity: 0.7;
+        border: 5px solid #6e6e6e;
+        display:flex;
+        height: 500px;
+        width: 800px;
+        align-items: center;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 100px;
+        border-top-left-radius: 15px 10px;
+        border-top-right-radius: 15px 10px;
+        border-bottom-left-radius: 15px 10px;
+        border-bottom-right-radius: 15px 10px;
+        font-family: 'Bebas Neue', cursive;
+            word-spacing: 3px;
+    text-align: center;
+    text-shadow: 3px 3px black;
+    color: white;
+    
+    }
+    .donate_tittle {
+        font-size: 60px;
+        margin-top: 50px;
+        text-shadow: 3px 3px black;
+        color: whitesmoke;
+        text-align: center;
+    }
+
+    .dane_donate{
+        font-size: 35px;
+        position: relative;
+            background-color: black;
+            opacity: 0.7;
+            border: 5px solid #6e6e6e;
+            display:flex;
+            height: 600px;
+            width: 800px;
+            align-items: center;
+            margin-left: auto;
+            margin-right: auto;
+            margin-top: 100px;
+            border-top-left-radius: 15px 10px;
+            border-top-right-radius: 15px 10px;
+            border-bottom-left-radius: 15px 10px;
+            border-bottom-right-radius: 15px 10px;
+            font-family: 'Bebas Neue', cursive;
+                word-spacing: 3px;
+        text-align: center;
+        text-shadow: 3px 3px black;
+        color: white;
+
+    }
+
+
+
